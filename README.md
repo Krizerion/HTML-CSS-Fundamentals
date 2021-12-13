@@ -1,3 +1,7 @@
-# HTML-CSS-Fundamentals
+# HTML-CSS-Fundamentals-Course
 
-My first course in programming
+My first course
+
+# Course overview
+
+I still dont know what I will do

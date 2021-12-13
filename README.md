@@ -4,4 +4,4 @@ My first course
 
 # Course overview
 
-I still dont know what I will do
+I have no idea
